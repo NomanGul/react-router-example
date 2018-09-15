@@ -5,18 +5,18 @@ const Navbar = () => {
   return (
     <nav>
       <div className="nav-wrapper">
-        <Link to="/" className="brand-logo center">
+        <Link to="/react-router-example/" className="brand-logo center">
           ReactRouterExample
         </Link>
         <ul className="right">
           <li>
-            <Link to="/">Home</Link>
+            <Link to="/react-router-example/">Home</Link>
           </li>
           <li>
-            <Link to="/about">About</Link>
+            <Link to="/react-router-example/about">About</Link>
           </li>
           <li>
-            <Link to="/contact">Contact</Link>
+            <Link to="/react-router-example/contact">Contact</Link>
           </li>
         </ul>
       </div>
