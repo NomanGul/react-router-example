@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://nomangul.github.io/react-router-example",
   "dependencies": {
-    "react": "^16.5.1",
+    "react": "^16.14.0",
     "react-dom": "^16.5.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.5"
